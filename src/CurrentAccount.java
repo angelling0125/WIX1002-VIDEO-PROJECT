@@ -1,5 +1,3 @@
-package banking;
-
 public class CurrentAccount extends Account {
     private double overdraftLimit;
     private double monthlyFee;
